@@ -437,7 +437,7 @@ var link = ui.Label('View Code in Github', {
     margin: '4px 8px',
     textAlign: 'left',
     stretch: 'horizontal'
-}, 'https://github.com/nkeikon/earthengine-apps/blob/master/ProtectedAreaLoss.js');
+}, 'https://github.com/desmond-lartey/Nature-Biodiversity-conservation/blob/Fires/Deforestation%20of%20Parks);
 
 // Create a panel that contains both the slider and the label.
 var panel = ui.Panel({
